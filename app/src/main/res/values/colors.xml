@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#2196F3</color> <!-- 蓝色 -->
+    <color name="color_primary_dark">#0079f2</color> <!-- 蓝色 -->
+    <color name="shadow_bg">#BDBDBD</color>
+</resources>
